@@ -1,0 +1,32 @@
+body {
+    background-color: lightcoral
+    color black
+
+}
+
+h1 {
+    background-color: coral;
+    color: lightblue
+
+    
+}
+h2 {
+    background-color: coral;
+    color: lightblue;
+    padding: 20px;
+}
+p {
+   color: lightblue;
+   background-color: coral;
+   padding: 20px;
+   
+}
+
+#midstilt {
+ width: 600px;
+ margin: auto;
+ background-color: coral;
+ color: lightblue;
+ border: 20px;
+ border-color: cornflowerblue;
+}
